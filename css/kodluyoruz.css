@@ -1,0 +1,30 @@
+body{
+    background-color:black;
+    color:white;
+    font-family: Calibri;
+}
+h1,h2{
+    color: pink;
+    text-align: center;
+}
+article{
+    text-align: center;
+}
+h3{
+    color:red;
+    text-align: center;
+}
+ul{
+    text-align: center;
+    color: rgb(5, 171, 13);
+}
+div{
+    text-align: center;
+    color:purple;
+}
+ol{
+    color: rgb(22, 8, 153);
+}
+p{
+    color:brown;
+}
